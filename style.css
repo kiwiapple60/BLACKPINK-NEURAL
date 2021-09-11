@@ -1,0 +1,14 @@
+body{
+    background-image:url("Black_&_Magenta_Flag.png");
+    text-decoration-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.heading{
+    font-style: inherit;
+}
+#camera{
+    border: 2px dashed white;
+    width :350px;
+  height :300px;
+}
